@@ -1,8 +1,12 @@
 
-h1{
-  color: red; 
+.titulo{
+   
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 
 }
 
+.color_azul {
+    color: blue; 
+
+}
