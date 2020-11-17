@@ -1,12 +1,9 @@
-
-.titulo{
-   
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
-
-}
-
 .color_azul {
     color: blue; 
     font-size: small;
+   
+}
+
+.color_azul{
+      color: red;
 }
